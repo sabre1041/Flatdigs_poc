@@ -1,0 +1,13 @@
+.svn
+plugins/*
+html
+stacktrace.log
+web-app/WEB-INF/
+web-app/plugins
+.classpath
+.project
+.settings
+test/reports
+*.war
+target
+target-eclipse
